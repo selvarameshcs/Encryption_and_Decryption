@@ -891,7 +891,7 @@ class Vigenere
   }
 
 //Main Class
-public class enc
+public class Encry_Decryp
 {
     public static void main(String[] args)
     {
